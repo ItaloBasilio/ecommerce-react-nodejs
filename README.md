@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+img src =" https://github.com/ItaloBasilio/ecommerce-react-nodejs-mongodb/blob/master/src/Components/Assets/ecommerce_git.png?raw=true" />
+
 ## Available Scripts
 
 In the project directory, you can run:
