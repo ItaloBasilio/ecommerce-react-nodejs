@@ -103,3 +103,11 @@
 .productdisplay-right button:active{
     opacity: 0.5;
 }
+
+.productdisplay-right-category{
+    margin-top: 10px
+}
+
+.productdisplay-right-category span{
+    font-weight: 600;
+}
